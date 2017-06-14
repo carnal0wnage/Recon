@@ -10,7 +10,7 @@ Tools leveraged:
 - EyeWitness by ChrisTruncer  (https://github.com/ChrisTruncer/EyeWitness)
 
 Usage: 
-python PyBrute.py example.com –b –s n --vpn 
+python PyBrute.py -d example.com –b –s n --vpn 
 
 Commands:
 
