@@ -13,8 +13,13 @@ Usage:
 python PyBrute.py example.com –b –s n --vpn 
 
 Commands:
---install/--upgrade – Both do the same function – install Sublis3r and EyeWitness (Kali is a prerequisite AFAIK)
--d – domain you want to perfom recon on
---vpn – Check if you are on VPN (update with your provider)
--b – Use Sublis3r’s subrute subdomain brute forcing method
--s n – List of URL’s include HTTPS and HTTP (HTTPS only by default)
+
+  --install/--upgrade – Both do the same function – install Sublis3r and EyeWitness (Kali is a prerequisite AFAIK)
+
+  -d – domain you want to perfom recon on
+
+  --vpn – Check if you are on VPN (update with your provider)
+
+  -b – Use Sublis3r’s subrute subdomain brute forcing method
+
+  -s n – List of URL’s include HTTPS and HTTP (HTTPS only by default)
